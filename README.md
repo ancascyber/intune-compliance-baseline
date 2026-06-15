@@ -233,18 +233,18 @@ Each run produces a timestamped CSV report locally and ships the same data to Lo
 
 | # | Description |
 |---|---|
-| 01 | Intune admin center — MDM Authority confirmed |
-| 02 | Enrolled device in Devices > All Devices |
-| 03 | Dynamic group `Intune-Windows-Devices` with device as member |
-| 04 | Compliance policy settings |
-| 05 | Device compliance status |
-| 06 | Configuration profile — Succeeded status |
-| 07 | PowerShell terminal — Graph script output and CSV |
-| 08 | Log Analytics workspace overview |
-| 09 | `IntuneCompliance_CL` table schema and KQL query results |
-| 10 | Data Collection Endpoint and Data Collection Rule configuration |
-| 11 | Azure Monitor alert rule configuration |
-| 12 | Task Scheduler — task configuration and successful run (`0x0`) |
+| 01 |![Intune admin center — MDM Authority confirmed](01.png)
+| 02 | ![Enrolled device in Devices > All Devices](02.png)
+| 03 | ![Dynamic group](03.png)
+| 04 | ![Compliance policy settings](04.png)
+| 05 | ![Compliance policy settings](05.png)
+| 06 | ![Configuration profile](06.png) |
+| 07 | ![PowerShell terminal](07.png)
+| 08 | ![Log Analytics workspace overview](08.png)
+| 09 | ![IntuneCompliance_CL](09.png)
+| 10 | ![Data Collection Endpoint and Data Collection Rule configuration](10.png)
+| 11 | ![Azure Monitor alert rule configuration ](11.png)
+| 12 | ![Task Scheduler — task configuration and successful run](12.png)
 
 *(Screenshots to be added from project OneNote.)*
 
